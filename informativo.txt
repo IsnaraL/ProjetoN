@@ -1,0 +1,15 @@
+Olá,
+
+Segue breve descrição do que foi feito:
+
+- Correção em nome de coluna diretamente no arquivo df_empresas.csv, campo alterado para empresa_Matriz.
+- Criação de diretório:
+	C:\Projeto_Neoway\Arquivos\Historico
+	C:\Projeto_Neoway\Arquivos\Pendente
+	
+- Utilizei o Google Cloud Bigquery e estou conectando pelo usuário de serviço via arquivo.
+- Para leitura dos arquivos e inclusão na base de dados, utilizei o python, arquivo ProjetoN.py.
+- Para visual desenvolvi em Power BI, arquivo ProjetoN_v2.pbix.
+
+Obrigada e para qualquer dúvida estou a disposição,
+Isnara 
